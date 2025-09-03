@@ -1,0 +1,3 @@
+Deck,Subdeck,Type,Front,Back
+Calculus I,Derivatives,basic,What is the derivative of x^2?,2x
+Calculus I,Derivatives,cloze,The derivative of {{c::sin(x)}} is {{c::cos(x)}},

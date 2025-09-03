@@ -1,0 +1,31 @@
+Deck,Subdeck,Type,Front,Back
+Biochemistry - Amino Acids,Properties,basic,How many standard amino acids are encoded in the genetic code?,20
+Biochemistry - Amino Acids,Properties,basic,What functional groups are present in all standard amino acids?,"Amino group, carboxyl group, side chain (R group)"
+Biochemistry - Amino Acids,Properties,basic,Which carbon is the chiral center in most amino acids?,The alpha carbon (Cα)
+Biochemistry - Amino Acids,Properties,basic,Which configuration (L or D) do naturally occurring amino acids have in proteins?,L configuration
+Biochemistry - Amino Acids,Properties,basic,"At physiological pH, what is the charge of the amino and carboxyl groups?","Amino group: +1, Carboxyl group: -1"
+Biochemistry - Amino Acids,Classification,basic,Which amino acids are nonpolar and aliphatic?,"Glycine, Alanine, Valine, Leucine, Isoleucine, Proline, Methionine"
+Biochemistry - Amino Acids,Classification,basic,Which amino acids are aromatic?,"Phenylalanine, Tyrosine, Tryptophan"
+Biochemistry - Amino Acids,Classification,basic,Which amino acids are polar but uncharged?,"Serine, Threonine, Asparagine, Glutamine, Cysteine, Tyrosine"
+Biochemistry - Amino Acids,Classification,basic,Which amino acids are positively charged (basic) at pH 7?,"Lysine, Arginine, Histidine"
+Biochemistry - Amino Acids,Classification,basic,Which amino acids are negatively charged (acidic) at pH 7?,"Aspartate, Glutamate"
+Biochemistry - Amino Acids,pKa & Ionization,basic,Approximate pKa of the carboxyl group in amino acids?,~2
+Biochemistry - Amino Acids,pKa & Ionization,basic,Approximate pKa of the amino group in amino acids?,~9-10
+Biochemistry - Amino Acids,pKa & Ionization,basic,Approximate pKa of Histidine side chain?,~6
+Biochemistry - Amino Acids,pKa & Ionization,basic,Approximate pKa of the side chain of cysteine?,~8.3
+Biochemistry - Amino Acids,pKa & Ionization,basic,Approximate pKa of the side chain of tyrosine?,~10.1
+Biochemistry - Amino Acids,pKa & Ionization,cloze,"The isoelectric point (pI) is the pH where an amino acid has {{c1::net zero charge}},",
+Biochemistry - Amino Acids,Special Cases,basic,Which amino acid has no stereocenter?,Glycine
+Biochemistry - Amino Acids,Special Cases,basic,Which amino acid forms a cyclic structure restricting flexibility?,Proline
+Biochemistry - Amino Acids,Special Cases,basic,Which amino acid contains a sulfur atom and can form disulfide bonds?,Cysteine
+Biochemistry - Amino Acids,Special Cases,basic,Which amino acid is the start codon in translation (AUG)?,Methionine
+Biochemistry - Amino Acids,Special Cases,basic,Which amino acid is most likely to be phosphorylated?,"Serine, Threonine, Tyrosine"
+Biochemistry - Amino Acids,Codes,basic,What is the 3-letter code for Alanine?,Ala
+Biochemistry - Amino Acids,Codes,basic,What is the 1-letter code for Alanine?,A
+Biochemistry - Amino Acids,Codes,basic,What is the 3-letter code for Glycine?,Gly
+Biochemistry - Amino Acids,Codes,basic,What is the 1-letter code for Glycine?,G
+Biochemistry - Amino Acids,Codes,basic,What is the 3-letter code for Lysine?,Lys
+Biochemistry - Amino Acids,Codes,basic,What is the 1-letter code for Lysine?,K
+Biochemistry - Amino Acids,Codes,basic,What is the 3-letter code for Tryptophan?,Trp
+Biochemistry - Amino Acids,Codes,basic,What is the 1-letter code for Tryptophan?,W
+Biochemistry - Amino Acids,Codes,basic,What is the 1-letter code for Aspartate?,D
